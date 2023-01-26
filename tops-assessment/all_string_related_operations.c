@@ -2,8 +2,7 @@
 
 int main()
 {
-    printf("ommmmmm\n");
-    printf("Welcome");
+    printf("i am ritesh");
 
     return 0;
 }
