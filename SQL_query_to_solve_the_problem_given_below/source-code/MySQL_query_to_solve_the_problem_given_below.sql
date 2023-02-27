@@ -1,5 +1,5 @@
 
-DROP DATABASE Customer_Salesman;
+-- DROP DATABASE Customer_Salesman;
 create database Customer_Salesman;
 use Customer_Salesman;
 /* In Customer table attributes are customer id, customer name, city, grade and 
